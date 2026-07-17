@@ -50,7 +50,19 @@ This repository serves as my **Data Analytics and Data Science Portfolio**, wher
 
 ## R
 
-*Projects will be added here.*
+## Superstore Sales Dashboard
+
+**Goal:** Analyze retail sales data to identify sales trends and top-performing products using the Sample Superstore dataset.
+
+**Code:** [Superstore Sales Dashboard (R)](https://github.com/Rupa-18/superstore-sales-dashboard)
+
+**Description:** This project analyzes the Sample Superstore dataset using base R. The workflow includes data loading, data cleaning, exploratory data analysis (EDA), monthly revenue analysis, product-level sales analysis, and visualization of key business metrics.
+
+**Skills:** Data cleaning, data preprocessing, exploratory data analysis (EDA), business analytics, data visualization.
+
+**Technology:** R (Base R)
+
+**Results:** The analysis identified monthly revenue trends, ranked the top 10 products by total revenue, and examined the revenue distribution to highlight high-value sales using percentile analysis.
 
 ## Power BI
 
