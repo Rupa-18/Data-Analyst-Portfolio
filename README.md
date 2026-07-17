@@ -52,6 +52,12 @@ This repository serves as my **Data Analytics and Data Science Portfolio**, wher
 
 ## Superstore Sales Dashboard
 
+<p align="center">
+
+  <img src="https://github.com/Rupa-18/superstore-sales-dashboard/blob/main/plots/monthly_revenue_trend.png" width="700">
+
+</p>
+
 **Goal:** Analyze retail sales data to identify sales trends and top-performing products using the Sample Superstore dataset.
 
 **Code:** [Superstore Sales Dashboard (R)](https://github.com/Rupa-18/superstore-sales-dashboard)
