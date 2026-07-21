@@ -46,7 +46,20 @@ This repository serves as my **Data Analytics and Data Science Portfolio**, wher
 
 ## Python
 
-*Projects will be added here.*
+## Python
+
+### Crime Data Mining and Exploratory Analysis
+
+**Goal:** Analyze over one million Los Angeles crime records to uncover temporal, demographic, and crime-type patterns through data cleaning, feature engineering, exploratory data analysis, and hypothesis-driven visualization.
+
+**Code:**  
+🔗 https://github.com/Rupa-18/crime-data-mining-exploratory-analysis
+
+**Description:** This project applies a complete data analysis workflow to a real-world public crime dataset. The analysis includes data preprocessing, feature engineering, exploratory data analysis (EDA), statistical hypothesis testing, and visualization to investigate seasonal trends, victim demographics, and residential crime patterns.
+
+**Skills:** Data Cleaning, Data Preprocessing, Feature Engineering, Exploratory Data Analysis (EDA), Hypothesis Testing, Data Visualization.
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
 
 ## R
 
