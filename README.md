@@ -46,8 +46,6 @@ This repository serves as my **Data Analytics and Data Science Portfolio**, wher
 
 ## Python
 
-## Python
-
 ### Crime Data Mining and Exploratory Analysis
 
 **Goal:** Analyze over one million Los Angeles crime records to uncover temporal, demographic, and crime-type patterns through data cleaning, feature engineering, exploratory data analysis, and hypothesis-driven visualization.
