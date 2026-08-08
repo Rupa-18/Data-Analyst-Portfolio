@@ -42,8 +42,18 @@ This repository serves as my **Data Analytics and Data Science Portfolio**, wher
 
 ## SQL
 
-*Projects will be added here.*
+### Online Marketplace Database System
 
+**Goal:** Design and implement a large-scale, normalized MySQL database for an online marketplace platform, and develop analytical SQL queries with baseline performance benchmarking.
+
+**Code:**
+🔗 https://github.com/Rupa-18/online-marketplace-database-system
+
+**Description:** This project models a realistic online marketplace (customers, products, categories, orders, payments, reviews) using a 3NF-normalized relational schema. Over 1.43 million rows of synthetic data were generated with Python and Faker. The project includes 19 analytical SQL queries covering multi-table joins, aggregations, subqueries, EXISTS, self joins, and cross joins, plus benchmarking (10 runs per query) to establish baseline runtime performance for future optimization.
+
+**Skills:** Database Design, Data Normalization (3NF), Synthetic Data Generation, SQL Querying, Query Benchmarking.
+
+**Technology:** MySQL, Python, Faker, NumPy, Pandas, Jupyter Notebook.
 ## Python
 
 ### Crime Data Mining and Exploratory Analysis
