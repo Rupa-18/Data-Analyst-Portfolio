@@ -54,6 +54,20 @@ This repository serves as my **Data Analytics and Data Science Portfolio**, wher
 **Skills:** Database Design, Data Normalization (3NF), Synthetic Data Generation, SQL Querying, Query Benchmarking.
 
 **Technology:** MySQL, Python, Faker, NumPy, Pandas, Jupyter Notebook.
+
+### Online Marketplace Query Optimization & Concurrency Control
+
+**Goal:** Improve analytical query performance on a large-scale MySQL marketplace database through query restructuring and indexing, and demonstrate transaction isolation levels for concurrency control.
+
+**Code:**
+🔗 https://github.com/Rupa-18/online-marketplace-query-optimization
+
+**Description:** A follow-up to the Online Marketplace Database System project, this project rewrites 7 baseline analytical queries into optimized versions (CTEs, pre-aggregation) and compares execution plans, applies B-tree, composite, and generated-column indexes, and benchmarks runtime before and after indexing using paired t-tests and 95% confidence intervals. It also simulates and prevents dirty reads, non-repeatable reads, and phantom reads across MySQL's READ UNCOMMITTED, READ COMMITTED, REPEATABLE READ, and SERIALIZABLE isolation levels.
+
+**Skills:** Query Optimization, Indexing Strategy, Transaction Management, Concurrency Control, Statistical Analysis (Paired t-test).
+
+**Technology:** MySQL, Python, pandas, NumPy, SciPy, Jupyter Notebook.
+
 ## Python
 
 ### Crime Data Mining and Exploratory Analysis
